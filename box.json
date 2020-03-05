@@ -1,0 +1,5 @@
+{
+    "main": "vendor/editorconfig-checker/editorconfig-checker/src/EditorconfigChecker.php",
+    "directories": ["vendor/editorconfig-checker/editorconfig-checker/src"],
+    "output": "editorconfig-checker.phar"
+}
